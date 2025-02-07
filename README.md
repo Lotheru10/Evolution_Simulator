@@ -25,5 +25,7 @@ Each animal has its own genotype, which is a combination of its parents' genotyp
 + Allowing users to adjust various settings before starting the simulation
   
 # Settings
+![Simulation Settungs](Settings.png)
 
 # Running the Simulation
+![Simulation Run](SimulationOnPause.png)
